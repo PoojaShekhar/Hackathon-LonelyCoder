@@ -2,8 +2,13 @@ This is an IOT Application that deals with saving your utility bills and alertin
 
 Prequisites :
 1 Raspberry Pi
+
 2 TI Sensor Tag
+
 3 Installation of Node Red in Raspberry Pi
+
 4 Connection of Sensor tag with RPi via wifi dongle
+
 5 A trial account in Twilio for sms
+
 6 Open Weather Map API collecting hourly forecast of data
